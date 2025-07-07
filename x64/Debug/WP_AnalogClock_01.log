@@ -1,0 +1,28 @@
+﻿  pch.cpp
+  AboutProc.cpp
+  gdiUtil.cpp
+  MainProc.cpp
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(41,29): warning C4244: 'return': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(63,47): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(64,47): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(70,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(71,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(84,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\User\source\repos\stapbystap\WP_AnalogClock_01\MainProc.cpp(85,15): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainProc.cpp'을(를) 컴파일하는 중)
+  
+  WP_AnalogClock_01.cpp
+  코드를 생성하고 있습니다...
+  WP_AnalogClock_01.vcxproj -> C:\Users\User\source\repos\stapbystap\x64\Debug\5.WP_AnalogClock_01.exe
